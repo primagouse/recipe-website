@@ -15,7 +15,7 @@ git log --oneline: shows the commit history with shortened commit IDs
 git mv recipe.html index.html: renames recipe.html to index.html
 have not used these yet:
 
-git diff: shows the changes between what has been staged and what is in the local repository
+git diff: shows the changes between what has been staged/the current commit and what is in the local repository
 ----
 git checkout <commit-id> <filename>: reverts specific file to version from that commit
 
